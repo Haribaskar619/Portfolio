@@ -8,13 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Haribaskar </span>
-            from <span className="purple"> Tamilnadu, India.</span>
-            <br />I am pursuing Full Stack web developement program organized by GUVI.
-            
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+           I was working with Kuwait Oil Corp for the past 5 years managing End to End Service orders, Invoice managment with ERP facilitations. Since my teen I was always amused by technology, gadgets and curious on how software works. When i returned to India, i decided to <strong className="green">switch my career into tech and pursue things that i'm more interested in.</strong>
+<br/><br/>
+          I started to teach myself how to code intially and eventually joined a <strong className="yellow">MERN Fullstack Dev</strong> <strong className="green">BootCamp program from GUVI (IIT Incubated EdTech) to Upskill Myself in web developement.</strong>
+          <br/><br/> Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">

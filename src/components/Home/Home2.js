@@ -20,12 +20,11 @@ function Home2() {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm Hari, A Entry level Full Stack Developer who is always curious in building stuffs.
               <br />
-              <br />I am fluent in classics like
+              <br />I create experiences on web using
               <i>
-                <b className="green"> C++, Javascript and Python. </b>
+                <b className="green"> Javascript, React , Node, Express and MongoDB. </b>
               </i>
               <br />
               <br />
@@ -36,18 +35,12 @@ function Home2() {
                 <b className="green">
                   web developement.
                 </b>
-                 &nbsp; I also apply my passion for developing products
-              with <b className="green">Node.js</b> and
-              <i>
+                 &nbsp; I Apply my learnings for developing products
+              with 
                 <b className="green">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="green"> React.js and Next.js</b>
-              </i>
               </i>
               <br />
               <br />
