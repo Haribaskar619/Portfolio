@@ -64,7 +64,7 @@ function Projects() {
               title="Portfolio"
               description="My Personal Portfolio website."
               feLink="https://github.com/Haribaskar619/Portfolio"
-              demoLink=""
+              demoLink="https://haribaskar.netlify.app"
             />
           </Col>
         </Row>

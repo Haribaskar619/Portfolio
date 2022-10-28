@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Hari, A Entry level Full Stack Developer who is always curious in building stuffs.
+              I'm Hari, An Entry level Full Stack Developer who is always curious in building stuffs.
               <br />
               <br />I create experiences on web using
               <i>
